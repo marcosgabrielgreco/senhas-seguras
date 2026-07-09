@@ -4,8 +4,8 @@ url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=
 :root{
 --branco: white;
 --cor-de-fundo: #1f9b0f;
---fundo-senha: #064d00;
---fundo-texto: #001E40;
+--fundo-senha: rgb(85, 88, 85);
+--fundo-texto: #1c9440;
 --borda: #0075FF;
 --roboto: 'Roboto', sans-serif;
 --roboto-mono: 'Roboto Mono', monospace;
